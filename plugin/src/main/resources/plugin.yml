@@ -1,0 +1,18 @@
+name: AdminPanel
+version: 1.0.0
+main: com.kyzer.adminpanel.AdminPanelPlugin
+api-version: '1.21'
+author: KyZer_HADOC
+description: Bridges a Paper server to the web-based admin dashboard for live player/inventory management.
+
+commands:
+  adminpanel:
+    description: Manage the AdminPanel plugin
+    usage: /adminpanel <reload|status>
+    permission: adminpanel.admin
+    permission-message: You do not have permission to use this command.
+
+permissions:
+  adminpanel.admin:
+    description: Full access to AdminPanel
+    default: op

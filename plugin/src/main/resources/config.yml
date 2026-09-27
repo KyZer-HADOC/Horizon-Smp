@@ -1,0 +1,17 @@
+# AdminPanel plugin config
+
+# The backend's WebSocket URL. Use wss:// in production (behind a reverse proxy with TLS).
+backend-url: "wss://your-backend-domain.example.com/plugin-ws"
+
+# Shared secret — must match PLUGIN_TOKEN in the backend's .env
+# Generate a long random value; do NOT reuse this token anywhere else.
+auth-token: "CHANGE-ME-TO-A-LONG-RANDOM-SECRET"
+
+# Unique ID for this server (lets one backend manage multiple servers later)
+server-id: "main-survival"
+
+# How often (ms) to push a full player-state snapshot even with no changes
+heartbeat-interval-ms: 5000
+
+# Reconnect backoff (ms) if the connection to backend drops
+reconnect-delay-ms: 5000
