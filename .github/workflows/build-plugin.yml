@@ -1,0 +1,30 @@
+name: Build AdminPanel Plugin
+
+on:
+  push:
+    paths:
+      - 'plugin/**'
+  workflow_dispatch: {}   # lets you trigger a build manually from the Actions tab, no push needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+          cache: 'maven'
+
+      - name: Build with Maven
+        working-directory: plugin
+        run: mvn -B clean package
+
+      - name: Upload jar as a downloadable artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: AdminPanel-jar
+          path: plugin/target/AdminPanel.jar
