@@ -27,7 +27,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>[26.1,)</version>
+            <version>26.1.2.build.74-stable</version>
             <scope>provided</scope>
         </dependency>
 
