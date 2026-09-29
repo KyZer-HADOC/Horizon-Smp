@@ -2,27 +2,42 @@ package com.kyzer.adminpanel;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
-import org.bukkit.Bukkit;
+import net.kyori.adventure.text.Component;
+import net.kyori.adventure.text.serializer.plain.PlainTextComponentSerializer;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 import org.bukkit.enchantments.Enchantment;
-import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.Damageable;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.inventory.meta.PotionMeta;
-import org.bukkit.potion.PotionData;
 import org.bukkit.potion.PotionType;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 
 /**
  * Converts between Bukkit ItemStacks and the JSON shape the web dashboard speaks.
- * This is the "give it teeth" piece: it's what lets an admin build an item in the
- * browser (name, lore, enchants, custom model data, potion type, damage) and have
- * it materialize as a real ItemStack in a player's real inventory.
+ *
+ * Written against Paper 26.1.2's current (non-deprecated) API:
+ *  - display name / lore go through Adventure Components (customName()/lore()),
+ *    not the old String-based setDisplayName()/setLore() pair.
+ *  - potion base type goes through setBasePotionType()/getBasePotionType() —
+ *    the old PotionData(type, extended, upgraded) class is gone. "Long"/"Strong"
+ *    variants are now just their own PotionType values (e.g. LONG_SWIFTNESS),
+ *    so the dashboard just sends that full type name as a string.
+ *
+ * Every item also carries a "raw" exact-copy blob (see toJson/fromJson) so moving an
+ * item around the dashboard never loses data that the field-by-field JSON can't express.
+ *
+ * Names/lore round-trip as plain text (formatting/color codes are dropped on the
+ * way to JSON and back) — good enough for admin tooling; say the word if you want
+ * MiniMessage-formatted names preserved instead.
  */
 public class ItemSerializer {
+
+    private static final PlainTextComponentSerializer PLAIN = PlainTextComponentSerializer.plainText();
 
     /** ItemStack -> JSON, for sending live inventory contents to the dashboard. */
     public static JsonObject toJson(ItemStack item) {
@@ -36,15 +51,23 @@ public class ItemSerializer {
         obj.addProperty("id", item.getType().getKey().toString());
         obj.addProperty("amount", item.getAmount());
 
+        // Exact byte-for-byte copy of the item (all components/NBT, other plugins' data included).
+        // The dashboard sends this back untouched when an item is just moved, so nothing is lost.
+        try {
+            obj.addProperty("raw", java.util.Base64.getEncoder().encodeToString(item.serializeAsBytes()));
+        } catch (Exception ignored) { /* fall back to the field-by-field data below */ }
+
         if (item.hasItemMeta()) {
             ItemMeta meta = item.getItemMeta();
 
-            if (meta.hasDisplayName()) {
-                obj.addProperty("name", meta.getDisplayName());
+            if (meta.hasCustomName()) {
+                obj.addProperty("name", PLAIN.serialize(meta.customName()));
+            } else if (meta.hasDisplayName()) {
+                obj.addProperty("name", PLAIN.serialize(meta.displayName()));
             }
             if (meta.hasLore()) {
                 JsonArray lore = new JsonArray();
-                meta.getLore().forEach(lore::add);
+                for (Component line : meta.lore()) lore.add(PLAIN.serialize(line));
                 obj.add("lore", lore);
             }
             if (meta.hasCustomModelData()) {
@@ -64,12 +87,9 @@ public class ItemSerializer {
                 }
                 obj.add("enchantments", enchants);
             }
-            if (meta instanceof PotionMeta potionMeta) {
+            if (meta instanceof PotionMeta potionMeta && potionMeta.hasBasePotionType()) {
                 JsonObject potion = new JsonObject();
-                PotionData data = potionMeta.getBasePotionData();
-                potion.addProperty("type", data.getType().name());
-                potion.addProperty("upgraded", data.isUpgraded());
-                potion.addProperty("extended", data.isExtended());
+                potion.addProperty("type", potionMeta.getBasePotionType().name());
                 obj.add("potion", potion);
             }
         }
@@ -77,27 +97,36 @@ public class ItemSerializer {
     }
 
     /** JSON (from the dashboard's item browser) -> a real ItemStack. */
-    @SuppressWarnings("deprecation")
     public static ItemStack fromJson(JsonObject obj) {
+        if (obj.has("raw")) {
+            try {
+                ItemStack exact = ItemStack.deserializeBytes(
+                        java.util.Base64.getDecoder().decode(obj.get("raw").getAsString()));
+                if (obj.has("amount")) {
+                    exact.setAmount(Math.max(1, Math.min(obj.get("amount").getAsInt(), exact.getMaxStackSize())));
+                }
+                return exact;
+            } catch (Exception ignored) { /* corrupt/foreign raw data — rebuild from the fields below */ }
+        }
         String idStr = obj.get("id").getAsString().replace("minecraft:", "");
         Material material = Material.matchMaterial(idStr);
         if (material == null) {
             material = Material.STONE; // safe fallback rather than throwing
         }
         int amount = obj.has("amount") ? obj.get("amount").getAsInt() : 1;
-        ItemStack item = new ItemStack(material, Math.max(1, amount));
+        ItemStack item = new ItemStack(material, Math.max(1, Math.min(amount, material.getMaxStackSize())));
 
         ItemMeta meta = item.getItemMeta();
         if (meta == null) return item;
 
         if (obj.has("name") && !obj.get("name").getAsString().isBlank()) {
-            meta.setDisplayName(obj.get("name").getAsString());
+            meta.customName(Component.text(obj.get("name").getAsString()));
         }
         if (obj.has("lore")) {
             JsonArray loreArr = obj.getAsJsonArray("lore");
-            java.util.List<String> lore = new java.util.ArrayList<>();
-            loreArr.forEach(el -> lore.add(el.getAsString()));
-            meta.setLore(lore);
+            List<Component> lore = new ArrayList<>();
+            loreArr.forEach(el -> lore.add(Component.text(el.getAsString())));
+            meta.lore(lore);
         }
         if (obj.has("customModelData")) {
             meta.setCustomModelData(obj.get("customModelData").getAsInt());
@@ -119,15 +148,12 @@ public class ItemSerializer {
         if (obj.has("potion") && meta instanceof PotionMeta potionMeta) {
             JsonObject potion = obj.getAsJsonObject("potion");
             try {
-                PotionType type = PotionType.valueOf(potion.get("type").getAsString());
-                boolean upgraded = potion.has("upgraded") && potion.get("upgraded").getAsBoolean();
-                boolean extended = potion.has("extended") && potion.get("extended").getAsBoolean();
-                potionMeta.setBasePotionData(new PotionData(type, extended, upgraded));
+                PotionType type = PotionType.valueOf(potion.get("type").getAsString().toUpperCase());
+                potionMeta.setBasePotionType(type);
             } catch (IllegalArgumentException ignored) {
                 // unknown potion type name from the client — leave meta as-is rather than crash
             }
         }
-        meta.addItemFlags(ItemFlag.values());
         item.setItemMeta(meta);
         return item;
     }
