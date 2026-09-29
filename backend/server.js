@@ -21,7 +21,16 @@ if (!PLUGIN_TOKEN || !JWT_SECRET || !PANEL_PASSWORD_HASH) {
 
 const app = express();
 app.use(express.json());
-app.use(cors({ origin: ALLOWED_ORIGINS.length ? ALLOWED_ORIGINS : true }));
+// A literal "*" means allow-any-origin (reflect the request's origin, works for
+// file:// pages too, which send no useful Origin header). Anything else is
+// treated as a real whitelist.
+const allowAllOrigins = ALLOWED_ORIGINS.length === 1 && ALLOWED_ORIGINS[0] === '*';
+app.use(cors({ origin: allowAllOrigins ? true : (ALLOWED_ORIGINS.length ? ALLOWED_ORIGINS : true) }));
+
+// Simple health-check so you can confirm the server is live from a browser
+app.get('/', (req, res) => {
+  res.send('Horizon SMP AdminPanel backend is running.');
+});
 
 // ---- In-memory state -------------------------------------------------
 // This is a single-process bridge. For production scale you'd back this
@@ -179,6 +188,31 @@ app.post('/api/players/:uuid/op', requireAuth, async (req, res) => {
 
 app.post('/api/players/:uuid/freeze', requireAuth, async (req, res) => {
   await forward(res, { type: req.body.frozen ? 'freeze' : 'unfreeze', player: req.params.uuid });
+});
+
+app.post('/api/players/:uuid/kill', requireAuth, async (req, res) => {
+  await forward(res, { type: 'kill', player: req.params.uuid });
+});
+
+app.post('/api/players/:uuid/health', requireAuth, async (req, res) => {
+  await forward(res, { type: 'set_health', player: req.params.uuid, health: req.body.health });
+});
+
+app.post('/api/players/:uuid/food', requireAuth, async (req, res) => {
+  await forward(res, { type: 'set_food', player: req.params.uuid, food: req.body.food });
+});
+
+app.post('/api/players/:uuid/xp', requireAuth, async (req, res) => {
+  await forward(res, { type: 'set_xp', player: req.params.uuid, level: req.body.level, exp: req.body.exp });
+});
+
+app.get('/api/offline-players', requireAuth, async (req, res) => {
+  try {
+    const result = await sendCommandToPlugin(DEFAULT_SERVER_ID, { type: 'get_offline_players' }, 15000);
+    res.json(result);
+  } catch (e) {
+    res.status(502).json({ error: e.message });
+  }
 });
 
 app.post('/api/console/execute', requireAuth, async (req, res) => {

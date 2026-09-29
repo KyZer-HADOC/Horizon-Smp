@@ -4,1171 +4,1171 @@
       "id": "minecraft:stone",
       "name": "Stone",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/stone.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/stone.png"
     },
     {
       "id": "minecraft:cobblestone",
       "name": "Cobblestone",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cobblestone.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cobblestone.png"
     },
     {
       "id": "minecraft:dirt",
       "name": "Dirt",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/dirt.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/dirt.png"
     },
     {
       "id": "minecraft:grass_block",
       "name": "Grass Block",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/grass_block.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/grass_block.png"
     },
     {
       "id": "minecraft:oak_planks",
       "name": "Oak Planks",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/oak_planks.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/oak_planks.png"
     },
     {
       "id": "minecraft:spruce_planks",
       "name": "Spruce Planks",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/spruce_planks.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/spruce_planks.png"
     },
     {
       "id": "minecraft:birch_planks",
       "name": "Birch Planks",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/birch_planks.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/birch_planks.png"
     },
     {
       "id": "minecraft:stone_bricks",
       "name": "Stone Bricks",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/stone_bricks.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/stone_bricks.png"
     },
     {
       "id": "minecraft:bricks",
       "name": "Bricks",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/bricks.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/bricks.png"
     },
     {
       "id": "minecraft:sandstone",
       "name": "Sandstone",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/sandstone.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/sandstone.png"
     },
     {
       "id": "minecraft:glass",
       "name": "Glass",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/glass.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/glass.png"
     },
     {
       "id": "minecraft:oak_log",
       "name": "Oak Log",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/oak_log.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/oak_log.png"
     },
     {
       "id": "minecraft:white_wool",
       "name": "White Wool",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/white_wool.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/white_wool.png"
     },
     {
       "id": "minecraft:black_wool",
       "name": "Black Wool",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/black_wool.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/black_wool.png"
     },
     {
       "id": "minecraft:obsidian",
       "name": "Obsidian",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/obsidian.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/obsidian.png"
     },
     {
       "id": "minecraft:netherrack",
       "name": "Netherrack",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherrack.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherrack.png"
     },
     {
       "id": "minecraft:end_stone",
       "name": "End Stone",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/end_stone.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/end_stone.png"
     },
     {
       "id": "minecraft:deepslate",
       "name": "Deepslate",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/deepslate.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/deepslate.png"
     },
     {
       "id": "minecraft:polished_deepslate",
       "name": "Polished Deepslate",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/polished_deepslate.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/polished_deepslate.png"
     },
     {
       "id": "minecraft:quartz_block",
       "name": "Quartz Block",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/quartz_block.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/quartz_block.png"
     },
     {
       "id": "minecraft:terracotta",
       "name": "Terracotta",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/terracotta.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/terracotta.png"
     },
     {
       "id": "minecraft:white_concrete",
       "name": "White Concrete",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/white_concrete.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/white_concrete.png"
     },
     {
       "id": "minecraft:red_concrete",
       "name": "Red Concrete",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/red_concrete.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/red_concrete.png"
     },
     {
       "id": "minecraft:blue_concrete",
       "name": "Blue Concrete",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/blue_concrete.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/blue_concrete.png"
     },
     {
       "id": "minecraft:glowstone",
       "name": "Glowstone",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/glowstone.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/glowstone.png"
     },
     {
       "id": "minecraft:sea_lantern",
       "name": "Sea Lantern",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/sea_lantern.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/sea_lantern.png"
     },
     {
       "id": "minecraft:prismarine",
       "name": "Prismarine",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/prismarine.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/prismarine.png"
     },
     {
       "id": "minecraft:purpur_block",
       "name": "Purpur Block",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/purpur_block.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/purpur_block.png"
     },
     {
       "id": "minecraft:nether_bricks",
       "name": "Nether Bricks",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/nether_bricks.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/nether_bricks.png"
     },
     {
       "id": "minecraft:cut_copper",
       "name": "Cut Copper",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cut_copper.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cut_copper.png"
     },
     {
       "id": "minecraft:waxed_copper_block",
       "name": "Waxed Copper Block",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/waxed_copper_block.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/waxed_copper_block.png"
     },
     {
       "id": "minecraft:tuff",
       "name": "Tuff",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/tuff.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/tuff.png"
     },
     {
       "id": "minecraft:calcite",
       "name": "Calcite",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/calcite.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/calcite.png"
     },
     {
       "id": "minecraft:mud_bricks",
       "name": "Mud Bricks",
       "category": "Building Blocks",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/mud_bricks.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/mud_bricks.png"
     },
     {
       "id": "minecraft:wooden_sword",
       "name": "Wooden Sword",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/wooden_sword.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/wooden_sword.png"
     },
     {
       "id": "minecraft:stone_sword",
       "name": "Stone Sword",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/stone_sword.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/stone_sword.png"
     },
     {
       "id": "minecraft:iron_sword",
       "name": "Iron Sword",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_sword.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_sword.png"
     },
     {
       "id": "minecraft:golden_sword",
       "name": "Golden Sword",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/golden_sword.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/golden_sword.png"
     },
     {
       "id": "minecraft:diamond_sword",
       "name": "Diamond Sword",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_sword.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_sword.png"
     },
     {
       "id": "minecraft:netherite_sword",
       "name": "Netherite Sword",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherite_sword.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherite_sword.png"
     },
     {
       "id": "minecraft:bow",
       "name": "Bow",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/bow.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/bow.png"
     },
     {
       "id": "minecraft:crossbow",
       "name": "Crossbow",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/crossbow.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/crossbow.png"
     },
     {
       "id": "minecraft:arrow",
       "name": "Arrow",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/arrow.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/arrow.png"
     },
     {
       "id": "minecraft:spectral_arrow",
       "name": "Spectral Arrow",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/spectral_arrow.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/spectral_arrow.png"
     },
     {
       "id": "minecraft:shield",
       "name": "Shield",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/shield.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/shield.png"
     },
     {
       "id": "minecraft:trident",
       "name": "Trident",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/trident.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/trident.png"
     },
     {
       "id": "minecraft:iron_helmet",
       "name": "Iron Helmet",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_helmet.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_helmet.png"
     },
     {
       "id": "minecraft:iron_chestplate",
       "name": "Iron Chestplate",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_chestplate.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_chestplate.png"
     },
     {
       "id": "minecraft:iron_leggings",
       "name": "Iron Leggings",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_leggings.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_leggings.png"
     },
     {
       "id": "minecraft:iron_boots",
       "name": "Iron Boots",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_boots.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_boots.png"
     },
     {
       "id": "minecraft:diamond_helmet",
       "name": "Diamond Helmet",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_helmet.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_helmet.png"
     },
     {
       "id": "minecraft:diamond_chestplate",
       "name": "Diamond Chestplate",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_chestplate.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_chestplate.png"
     },
     {
       "id": "minecraft:diamond_leggings",
       "name": "Diamond Leggings",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_leggings.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_leggings.png"
     },
     {
       "id": "minecraft:diamond_boots",
       "name": "Diamond Boots",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_boots.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_boots.png"
     },
     {
       "id": "minecraft:netherite_helmet",
       "name": "Netherite Helmet",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherite_helmet.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherite_helmet.png"
     },
     {
       "id": "minecraft:netherite_chestplate",
       "name": "Netherite Chestplate",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherite_chestplate.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherite_chestplate.png"
     },
     {
       "id": "minecraft:netherite_leggings",
       "name": "Netherite Leggings",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherite_leggings.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherite_leggings.png"
     },
     {
       "id": "minecraft:netherite_boots",
       "name": "Netherite Boots",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherite_boots.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherite_boots.png"
     },
     {
       "id": "minecraft:leather_helmet",
       "name": "Leather Helmet",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/leather_helmet.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/leather_helmet.png"
     },
     {
       "id": "minecraft:turtle_helmet",
       "name": "Turtle Helmet",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/turtle_helmet.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/turtle_helmet.png"
     },
     {
       "id": "minecraft:totem_of_undying",
       "name": "Totem Of Undying",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/totem_of_undying.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/totem_of_undying.png"
     },
     {
       "id": "minecraft:mace",
       "name": "Mace",
       "category": "Combat",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/mace.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/mace.png"
     },
     {
       "id": "minecraft:wooden_pickaxe",
       "name": "Wooden Pickaxe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/wooden_pickaxe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/wooden_pickaxe.png"
     },
     {
       "id": "minecraft:stone_pickaxe",
       "name": "Stone Pickaxe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/stone_pickaxe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/stone_pickaxe.png"
     },
     {
       "id": "minecraft:iron_pickaxe",
       "name": "Iron Pickaxe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_pickaxe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_pickaxe.png"
     },
     {
       "id": "minecraft:golden_pickaxe",
       "name": "Golden Pickaxe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/golden_pickaxe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/golden_pickaxe.png"
     },
     {
       "id": "minecraft:diamond_pickaxe",
       "name": "Diamond Pickaxe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_pickaxe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_pickaxe.png"
     },
     {
       "id": "minecraft:netherite_pickaxe",
       "name": "Netherite Pickaxe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherite_pickaxe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherite_pickaxe.png"
     },
     {
       "id": "minecraft:iron_axe",
       "name": "Iron Axe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_axe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_axe.png"
     },
     {
       "id": "minecraft:diamond_axe",
       "name": "Diamond Axe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_axe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_axe.png"
     },
     {
       "id": "minecraft:iron_shovel",
       "name": "Iron Shovel",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_shovel.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_shovel.png"
     },
     {
       "id": "minecraft:diamond_shovel",
       "name": "Diamond Shovel",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_shovel.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_shovel.png"
     },
     {
       "id": "minecraft:iron_hoe",
       "name": "Iron Hoe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_hoe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_hoe.png"
     },
     {
       "id": "minecraft:diamond_hoe",
       "name": "Diamond Hoe",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond_hoe.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond_hoe.png"
     },
     {
       "id": "minecraft:fishing_rod",
       "name": "Fishing Rod",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/fishing_rod.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/fishing_rod.png"
     },
     {
       "id": "minecraft:flint_and_steel",
       "name": "Flint And Steel",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/flint_and_steel.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/flint_and_steel.png"
     },
     {
       "id": "minecraft:shears",
       "name": "Shears",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/shears.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/shears.png"
     },
     {
       "id": "minecraft:compass",
       "name": "Compass",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/compass.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/compass.png"
     },
     {
       "id": "minecraft:clock",
       "name": "Clock",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/clock.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/clock.png"
     },
     {
       "id": "minecraft:spyglass",
       "name": "Spyglass",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/spyglass.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/spyglass.png"
     },
     {
       "id": "minecraft:lead",
       "name": "Lead",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/lead.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/lead.png"
     },
     {
       "id": "minecraft:name_tag",
       "name": "Name Tag",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/name_tag.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/name_tag.png"
     },
     {
       "id": "minecraft:brush",
       "name": "Brush",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/brush.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/brush.png"
     },
     {
       "id": "minecraft:recovery_compass",
       "name": "Recovery Compass",
       "category": "Tools",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/recovery_compass.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/recovery_compass.png"
     },
     {
       "id": "minecraft:apple",
       "name": "Apple",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/apple.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/apple.png"
     },
     {
       "id": "minecraft:golden_apple",
       "name": "Golden Apple",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/golden_apple.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/golden_apple.png"
     },
     {
       "id": "minecraft:enchanted_golden_apple",
       "name": "Enchanted Golden Apple",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/enchanted_golden_apple.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/enchanted_golden_apple.png"
     },
     {
       "id": "minecraft:bread",
       "name": "Bread",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/bread.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/bread.png"
     },
     {
       "id": "minecraft:cooked_beef",
       "name": "Cooked Beef",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cooked_beef.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cooked_beef.png"
     },
     {
       "id": "minecraft:cooked_porkchop",
       "name": "Cooked Porkchop",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cooked_porkchop.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cooked_porkchop.png"
     },
     {
       "id": "minecraft:cooked_chicken",
       "name": "Cooked Chicken",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cooked_chicken.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cooked_chicken.png"
     },
     {
       "id": "minecraft:cooked_mutton",
       "name": "Cooked Mutton",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cooked_mutton.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cooked_mutton.png"
     },
     {
       "id": "minecraft:cooked_salmon",
       "name": "Cooked Salmon",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cooked_salmon.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cooked_salmon.png"
     },
     {
       "id": "minecraft:cooked_cod",
       "name": "Cooked Cod",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cooked_cod.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cooked_cod.png"
     },
     {
       "id": "minecraft:carrot",
       "name": "Carrot",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/carrot.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/carrot.png"
     },
     {
       "id": "minecraft:golden_carrot",
       "name": "Golden Carrot",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/golden_carrot.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/golden_carrot.png"
     },
     {
       "id": "minecraft:potato",
       "name": "Potato",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/potato.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/potato.png"
     },
     {
       "id": "minecraft:baked_potato",
       "name": "Baked Potato",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/baked_potato.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/baked_potato.png"
     },
     {
       "id": "minecraft:cake",
       "name": "Cake",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cake.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cake.png"
     },
     {
       "id": "minecraft:cookie",
       "name": "Cookie",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cookie.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cookie.png"
     },
     {
       "id": "minecraft:melon_slice",
       "name": "Melon Slice",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/melon_slice.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/melon_slice.png"
     },
     {
       "id": "minecraft:pumpkin_pie",
       "name": "Pumpkin Pie",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/pumpkin_pie.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/pumpkin_pie.png"
     },
     {
       "id": "minecraft:honey_bottle",
       "name": "Honey Bottle",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/honey_bottle.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/honey_bottle.png"
     },
     {
       "id": "minecraft:suspicious_stew",
       "name": "Suspicious Stew",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/suspicious_stew.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/suspicious_stew.png"
     },
     {
       "id": "minecraft:rabbit_stew",
       "name": "Rabbit Stew",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/rabbit_stew.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/rabbit_stew.png"
     },
     {
       "id": "minecraft:mushroom_stew",
       "name": "Mushroom Stew",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/mushroom_stew.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/mushroom_stew.png"
     },
     {
       "id": "minecraft:beetroot_soup",
       "name": "Beetroot Soup",
       "category": "Food",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/beetroot_soup.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/beetroot_soup.png"
     },
     {
       "id": "minecraft:redstone",
       "name": "Redstone",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/redstone.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/redstone.png"
     },
     {
       "id": "minecraft:redstone_torch",
       "name": "Redstone Torch",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/redstone_torch.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/redstone_torch.png"
     },
     {
       "id": "minecraft:repeater",
       "name": "Repeater",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/repeater.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/repeater.png"
     },
     {
       "id": "minecraft:comparator",
       "name": "Comparator",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/comparator.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/comparator.png"
     },
     {
       "id": "minecraft:piston",
       "name": "Piston",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/piston.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/piston.png"
     },
     {
       "id": "minecraft:sticky_piston",
       "name": "Sticky Piston",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/sticky_piston.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/sticky_piston.png"
     },
     {
       "id": "minecraft:observer",
       "name": "Observer",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/observer.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/observer.png"
     },
     {
       "id": "minecraft:hopper",
       "name": "Hopper",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/hopper.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/hopper.png"
     },
     {
       "id": "minecraft:dropper",
       "name": "Dropper",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/dropper.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/dropper.png"
     },
     {
       "id": "minecraft:dispenser",
       "name": "Dispenser",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/dispenser.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/dispenser.png"
     },
     {
       "id": "minecraft:lever",
       "name": "Lever",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/lever.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/lever.png"
     },
     {
       "id": "minecraft:stone_button",
       "name": "Stone Button",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/stone_button.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/stone_button.png"
     },
     {
       "id": "minecraft:redstone_lamp",
       "name": "Redstone Lamp",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/redstone_lamp.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/redstone_lamp.png"
     },
     {
       "id": "minecraft:tripwire_hook",
       "name": "Tripwire Hook",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/tripwire_hook.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/tripwire_hook.png"
     },
     {
       "id": "minecraft:daylight_detector",
       "name": "Daylight Detector",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/daylight_detector.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/daylight_detector.png"
     },
     {
       "id": "minecraft:target",
       "name": "Target",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/target.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/target.png"
     },
     {
       "id": "minecraft:note_block",
       "name": "Note Block",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/note_block.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/note_block.png"
     },
     {
       "id": "minecraft:rail",
       "name": "Rail",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/rail.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/rail.png"
     },
     {
       "id": "minecraft:powered_rail",
       "name": "Powered Rail",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/powered_rail.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/powered_rail.png"
     },
     {
       "id": "minecraft:detector_rail",
       "name": "Detector Rail",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/detector_rail.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/detector_rail.png"
     },
     {
       "id": "minecraft:tnt",
       "name": "Tnt",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/tnt.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/tnt.png"
     },
     {
       "id": "minecraft:command_block",
       "name": "Command Block",
       "category": "Redstone",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/command_block.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/command_block.png"
     },
     {
       "id": "minecraft:potion",
       "name": "Potion",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/potion.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/potion.png"
     },
     {
       "id": "minecraft:splash_potion",
       "name": "Splash Potion",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/splash_potion.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/splash_potion.png"
     },
     {
       "id": "minecraft:lingering_potion",
       "name": "Lingering Potion",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/lingering_potion.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/lingering_potion.png"
     },
     {
       "id": "minecraft:glass_bottle",
       "name": "Glass Bottle",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/glass_bottle.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/glass_bottle.png"
     },
     {
       "id": "minecraft:brewing_stand",
       "name": "Brewing Stand",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/brewing_stand.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/brewing_stand.png"
     },
     {
       "id": "minecraft:cauldron",
       "name": "Cauldron",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cauldron.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cauldron.png"
     },
     {
       "id": "minecraft:nether_wart",
       "name": "Nether Wart",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/nether_wart.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/nether_wart.png"
     },
     {
       "id": "minecraft:blaze_powder",
       "name": "Blaze Powder",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/blaze_powder.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/blaze_powder.png"
     },
     {
       "id": "minecraft:glowstone_dust",
       "name": "Glowstone Dust",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/glowstone_dust.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/glowstone_dust.png"
     },
     {
       "id": "minecraft:redstone",
       "name": "Redstone",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/redstone.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/redstone.png"
     },
     {
       "id": "minecraft:fermented_spider_eye",
       "name": "Fermented Spider Eye",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/fermented_spider_eye.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/fermented_spider_eye.png"
     },
     {
       "id": "minecraft:ghast_tear",
       "name": "Ghast Tear",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/ghast_tear.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/ghast_tear.png"
     },
     {
       "id": "minecraft:phantom_membrane",
       "name": "Phantom Membrane",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/phantom_membrane.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/phantom_membrane.png"
     },
     {
       "id": "minecraft:rabbit_foot",
       "name": "Rabbit Foot",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/rabbit_foot.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/rabbit_foot.png"
     },
     {
       "id": "minecraft:spider_eye",
       "name": "Spider Eye",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/spider_eye.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/spider_eye.png"
     },
     {
       "id": "minecraft:magma_cream",
       "name": "Magma Cream",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/magma_cream.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/magma_cream.png"
     },
     {
       "id": "minecraft:dragon_breath",
       "name": "Dragon Breath",
       "category": "Potions & Brewing",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/dragon_breath.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/dragon_breath.png"
     },
     {
       "id": "minecraft:diamond",
       "name": "Diamond",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/diamond.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/diamond.png"
     },
     {
       "id": "minecraft:emerald",
       "name": "Emerald",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/emerald.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/emerald.png"
     },
     {
       "id": "minecraft:gold_ingot",
       "name": "Gold Ingot",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/gold_ingot.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/gold_ingot.png"
     },
     {
       "id": "minecraft:iron_ingot",
       "name": "Iron Ingot",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/iron_ingot.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/iron_ingot.png"
     },
     {
       "id": "minecraft:netherite_ingot",
       "name": "Netherite Ingot",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherite_ingot.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherite_ingot.png"
     },
     {
       "id": "minecraft:netherite_scrap",
       "name": "Netherite Scrap",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/netherite_scrap.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/netherite_scrap.png"
     },
     {
       "id": "minecraft:coal",
       "name": "Coal",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/coal.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/coal.png"
     },
     {
       "id": "minecraft:raw_iron",
       "name": "Raw Iron",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/raw_iron.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/raw_iron.png"
     },
     {
       "id": "minecraft:raw_gold",
       "name": "Raw Gold",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/raw_gold.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/raw_gold.png"
     },
     {
       "id": "minecraft:raw_copper",
       "name": "Raw Copper",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/raw_copper.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/raw_copper.png"
     },
     {
       "id": "minecraft:ender_pearl",
       "name": "Ender Pearl",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/ender_pearl.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/ender_pearl.png"
     },
     {
       "id": "minecraft:ender_eye",
       "name": "Ender Eye",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/ender_eye.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/ender_eye.png"
     },
     {
       "id": "minecraft:blaze_rod",
       "name": "Blaze Rod",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/blaze_rod.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/blaze_rod.png"
     },
     {
       "id": "minecraft:gunpowder",
       "name": "Gunpowder",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/gunpowder.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/gunpowder.png"
     },
     {
       "id": "minecraft:string",
       "name": "String",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/string.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/string.png"
     },
     {
       "id": "minecraft:stick",
       "name": "Stick",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/stick.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/stick.png"
     },
     {
       "id": "minecraft:bone",
       "name": "Bone",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/bone.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/bone.png"
     },
     {
       "id": "minecraft:bone_meal",
       "name": "Bone Meal",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/bone_meal.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/bone_meal.png"
     },
     {
       "id": "minecraft:paper",
       "name": "Paper",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/paper.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/paper.png"
     },
     {
       "id": "minecraft:book",
       "name": "Book",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/book.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/book.png"
     },
     {
       "id": "minecraft:enchanted_book",
       "name": "Enchanted Book",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/enchanted_book.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/enchanted_book.png"
     },
     {
       "id": "minecraft:written_book",
       "name": "Written Book",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/written_book.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/written_book.png"
     },
     {
       "id": "minecraft:map",
       "name": "Map",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/map.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/map.png"
     },
     {
       "id": "minecraft:firework_rocket",
       "name": "Firework Rocket",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/firework_rocket.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/firework_rocket.png"
     },
     {
       "id": "minecraft:elytra",
       "name": "Elytra",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/elytra.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/elytra.png"
     },
     {
       "id": "minecraft:saddle",
       "name": "Saddle",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/saddle.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/saddle.png"
     },
     {
       "id": "minecraft:music_disc_cat",
       "name": "Music Disc Cat",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/music_disc_cat.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/music_disc_cat.png"
     },
     {
       "id": "minecraft:nether_star",
       "name": "Nether Star",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/nether_star.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/nether_star.png"
     },
     {
       "id": "minecraft:dragon_egg",
       "name": "Dragon Egg",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/dragon_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/dragon_egg.png"
     },
     {
       "id": "minecraft:heart_of_the_sea",
       "name": "Heart Of The Sea",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/heart_of_the_sea.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/heart_of_the_sea.png"
     },
     {
       "id": "minecraft:nautilus_shell",
       "name": "Nautilus Shell",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/nautilus_shell.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/nautilus_shell.png"
     },
     {
       "id": "minecraft:amethyst_shard",
       "name": "Amethyst Shard",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/amethyst_shard.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/amethyst_shard.png"
     },
     {
       "id": "minecraft:echo_shard",
       "name": "Echo Shard",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/echo_shard.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/echo_shard.png"
     },
     {
       "id": "minecraft:disc_fragment_5",
       "name": "Disc Fragment 5",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/disc_fragment_5.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/disc_fragment_5.png"
     },
     {
       "id": "minecraft:trial_key",
       "name": "Trial Key",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/trial_key.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/trial_key.png"
     },
     {
       "id": "minecraft:wind_charge",
       "name": "Wind Charge",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/wind_charge.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/wind_charge.png"
     },
     {
       "id": "minecraft:copper_ingot",
       "name": "Copper Ingot",
       "category": "Miscellaneous",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/copper_ingot.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/copper_ingot.png"
     },
     {
       "id": "minecraft:zombie_spawn_egg",
       "name": "Zombie Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/zombie_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/zombie_spawn_egg.png"
     },
     {
       "id": "minecraft:skeleton_spawn_egg",
       "name": "Skeleton Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/skeleton_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/skeleton_spawn_egg.png"
     },
     {
       "id": "minecraft:creeper_spawn_egg",
       "name": "Creeper Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/creeper_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/creeper_spawn_egg.png"
     },
     {
       "id": "minecraft:cow_spawn_egg",
       "name": "Cow Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/cow_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/cow_spawn_egg.png"
     },
     {
       "id": "minecraft:pig_spawn_egg",
       "name": "Pig Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/pig_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/pig_spawn_egg.png"
     },
     {
       "id": "minecraft:chicken_spawn_egg",
       "name": "Chicken Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/chicken_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/chicken_spawn_egg.png"
     },
     {
       "id": "minecraft:villager_spawn_egg",
       "name": "Villager Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/villager_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/villager_spawn_egg.png"
     },
     {
       "id": "minecraft:wolf_spawn_egg",
       "name": "Wolf Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/wolf_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/wolf_spawn_egg.png"
     },
     {
       "id": "minecraft:enderman_spawn_egg",
       "name": "Enderman Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/enderman_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/enderman_spawn_egg.png"
     },
     {
       "id": "minecraft:piglin_spawn_egg",
       "name": "Piglin Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/piglin_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/piglin_spawn_egg.png"
     },
     {
       "id": "minecraft:warden_spawn_egg",
       "name": "Warden Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/warden_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/warden_spawn_egg.png"
     },
     {
       "id": "minecraft:allay_spawn_egg",
       "name": "Allay Spawn Egg",
       "category": "Spawn Eggs",
-      "icon": "https://raw.githubusercontent.com/misode/mcmeta/1.21/assets/minecraft/textures/item/allay_spawn_egg.png"
+      "icon": "https://raw.githubusercontent.com/misode/mcmeta/assets/assets/minecraft/textures/item/allay_spawn_egg.png"
     }
   ]
 }
